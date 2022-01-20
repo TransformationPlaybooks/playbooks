@@ -7,7 +7,7 @@ repo_url: 'https://github.com/TransformationPlaybooks/playbooks'
 
 docs_dir: 'docs'
 # we're using "main" as the default branch
-edit_uir: 'edit/main/docs/'
+edit_uri: 'edit/main/docs/'
 
 
 
