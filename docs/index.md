@@ -9,7 +9,7 @@ This initiative is run by individuals that have assisted many organizations in t
 
 ## Where should I start reading?
 
-Organizational agile transformation is a big topic.  When read in order, the playbooks build the background knowledge to frame decisions that need to be made.   If unsure, start with [the Purpose of Organizational Design](Purpose_of_Organizational_Design.md).   
+Organizational agile transformation is a big topic.  When read in order, the playbooks build the background knowledge to frame decisions that need to be made.   If unsure, start with [the Purpose of Organizational Design](purpose_of_organizational_design.md).   
 
 
 ## Is this content complete? Is this all there is?

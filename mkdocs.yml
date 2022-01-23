@@ -12,27 +12,19 @@ edit_uri: 'edit/main/docs/'
 # Page tree
 nav:
   - 'index.md'
-  - 'Open Transformation Playbooks':
-    - 'The Purpose of Organizational Design' : 'purpose_of_organizational_design.md'   
-    - 'Language' : 'language.md'
+  - 'Open Transformation Playbooks' :
+    - 'The Purpose of Organizational Design' : 'purpose_of_organizational_design.md' 
+    - 'Language' :
+      - 'About language and taxonomy' : 'language.md' 
       - 'People and Groupings' : 'language-people-and-groupings.md'
       - 'Business' : 'language-business.md'
     - 'Goals' : 'goals.md'
     - 'The Designing of the Organization' : 'the-designing-of-the-organization.md'
-    - 'Future Expansion Points':
+    - 'Future Expansion Points' :
       - 'Why Transform?' : 'future-expansion-points/why-transform.md'
+    - 'References' : 'references.md'
 
-# nav:
-#   - 'Welcome': 'index.md'
-#   - 'Open Transformation Playbooks':
-#       - 'The Purpose of Organizational Design' : 'docs/purpose_of_organizational_design.md'
-#       - 'Language' : 'language.md'
-#         - 'People and Groupings' : 'language-people-and-groupings.md'
-#         - 'Business' : 'language-business.md'
-#       - 'Goals' : 'goals.md'
-#       - 'The Designing of the Organization' : 'the-designing-of-the-organization.md'
-#       - 'Future Expansion Points':
-#         - 'Why Transform?' : 'future-expansion-points/why-transform.md'
+
 
 
 
