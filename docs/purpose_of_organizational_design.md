@@ -1,12 +1,14 @@
+# The Purpose of Organizational Design
+
 Successful Organisations are generally aligned across the organisation with clearly understood goals and desired outcomes including how they will be measured. They also and most importantly understand the People that they have, the work that they are doing and ensure the work is the right work to achieve the desired outcome.
 
 They also understand that their people work together in more cross-functional team designs, enabling these teams become responsible for a deliverable outcome aligning to customer needs and the organisations strategic goal
 
-As an organisation increases in size it is not uncommon for collections of teams to be brought together in **Groups, Tribes** or **Domains.** The naming changes based on the adopted taxonomy of the organisation, for example  **Tribes**  from the early Henrik Kniberg Spotify model, more language and terminology will be introduced in the next section
+As an organisation increases in size it is not uncommon for collections of teams to be brought together in to form a &quot;team of teams&quot; known as **Groups, Tribes** or **Domains.** The naming changes based on the adopted taxonomy of the organisation, for example  **Tribes**  from the early Henrik Kniberg Spotify model, more language and terminology will be introduced in the next section
 
-These Groups can then take on ownership of larger strategic pieces of work and deliver larger customer outcome(s) and experience(s), in some customers this is called a  **Game Plan** or **Group Objective**  as it is part of an organisational review process (such as QBR - Quarterly Business Review, QDR - Quarterly Delivery Review, QIR - Quarterly Iteration Review .
+These Groups can then take on ownership of larger strategic pieces of work and deliver larger customer **Objective(s)**, outcome(s) and experience(s), in their business  **Game Plan**. Thes plans in turn form part of an organisational review process, such as Quarterly Business Review (QBR).
 
-Within these groups the individual cross functional teams are still responsible for owning slices of the work they need to complete. Together all these cross functional Team deliver the Groups Objectives which in turn achieve the Organisation Goals or Objectives and fulfil the customers needs.
+Within these groups the individual cross functional teams are still responsible for owning slices of the work they need to complete. Together all these cross functional Team deliver the Objectives which in turn achieve the Organisation Goals and fulfil the customers needs.
 
 To ensure a Team can deliver, they are cross function with appropriate individuals from potentially any area of the organisation and bring to the team their expertise, knowledge and abilities. Individuals may also on occasions move to different teams where there may be needed to augment a solution a team is delivering.
 
