@@ -14,7 +14,7 @@ Organizational agile transformation is a big topic.  When read in order, the pla
 
 ## Is this content complete? Is this all there is?
 
-No.  We're working our way through a backlog of articles, with estimated completion March 2022.   We've chosen to release early to gauge community interest.  See _How do I Contribute_ below. 
+It's an ever changing world, so we expect this work to continuously evolve.  From launch, we have a backlog of documents we are reviewing before publishing.  Keen to add to this body of knowledge?  see _How do I contribute_ below.  
 
 
 ## A note on language
