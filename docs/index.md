@@ -37,6 +37,6 @@ This initiative is sponsored by [Teamform](https://www.teamform.co/).  TeamForm 
 
 The Open Transformation Playbooks are contributed to the community.  While we believe that TeamForm is an excellent tool to execute these transformation playbooks, use of the tool is not required in order to read or use these playbooks!
 
-* [Phil Dempster](https://www.linkedin.com/in/phil-dempster-75425b2/) and `phil (at) teamform (dot) co`
-* [Martin Foster](https://www.linkedin.com/in/martinfoster/) and `martin (at) teamform (dot) co`
+* [Phil Dempster](https://www.linkedin.com/in/phil-dempster-75425b2/): `phil (at) teamform (dot) co`
+* [Martin Foster](https://www.linkedin.com/in/martinfoster/): `martin (at) teamform (dot) co`
 
