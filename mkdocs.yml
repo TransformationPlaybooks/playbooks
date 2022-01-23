@@ -9,6 +9,31 @@ docs_dir: 'docs'
 # we're using "main" as the default branch
 edit_uri: 'edit/main/docs/'
 
+# Page tree
+nav:
+  - 'index.md'
+  - 'Open Transformation Playbooks':
+    - 'The Purpose of Organizational Design' : 'purpose_of_organizational_design.md'   
+    - 'Language' : 'language.md'
+      - 'People and Groupings' : 'language-people-and-groupings.md'
+      - 'Business' : 'language-business.md'
+    - 'Goals' : 'goals.md'
+    - 'The Designing of the Organization' : 'the-designing-of-the-organization.md'
+    - 'Future Expansion Points':
+      - 'Why Transform?' : 'future-expansion-points/why-transform.md'
+
+# nav:
+#   - 'Welcome': 'index.md'
+#   - 'Open Transformation Playbooks':
+#       - 'The Purpose of Organizational Design' : 'docs/purpose_of_organizational_design.md'
+#       - 'Language' : 'language.md'
+#         - 'People and Groupings' : 'language-people-and-groupings.md'
+#         - 'Business' : 'language-business.md'
+#       - 'Goals' : 'goals.md'
+#       - 'The Designing of the Organization' : 'the-designing-of-the-organization.md'
+#       - 'Future Expansion Points':
+#         - 'Why Transform?' : 'future-expansion-points/why-transform.md'
+
 
 
 ## Sample config file from https://betterprogramming.pub/build-a-blog-with-github-and-mkdocs-cf47914affa7

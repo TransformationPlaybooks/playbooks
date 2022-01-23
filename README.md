@@ -1,3 +1,1 @@
-README 
-just about the files and the project.
-not published to the site
+The playbook content is in the `/docs` directory.
