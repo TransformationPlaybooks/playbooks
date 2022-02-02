@@ -17,7 +17,6 @@ Similar to the delivery team design, successful transformations pivot the whole 
 
 Note that when a transformation program is split into parts (or waves, or phases) processes will need to be adjusted to allow a blend of agile team supply structures to operate alongside more traditional line management centric talent pools. This hybrid approach will introduce another level of complexity towards responsibilities, ownership, priorities and interactions.
 
-![Shape1](RackMultipart20220129-4-34s0ug_html_49ac0cb03196381.gif)
 
 ## **Creating Design Guidelines**
 

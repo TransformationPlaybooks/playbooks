@@ -19,7 +19,7 @@ No.  We're working our way through a backlog of articles, with estimated complet
 
 ## A note on language
 
-Even if you're already familiar with this space, we suggest reading the section on [language](language.md) which covers the taxonomy in use.   We have observed some terms such as **chapter** and **centre of excellence** have wildly diffent meanings in different organizations; by being familiar with the language the open transformation playbooks use you'll be able to "translate" them to a taxonomy that works for you. 
+Even if you're already familiar with this space, we suggest reading the section on [language](language/language.md) which covers the taxonomy in use.   We have observed some terms such as **chapter** and **centre of excellence** have wildly diffent meanings in different organizations; by being familiar with the language the open transformation playbooks use you'll be able to "translate" them to a taxonomy that works for you. 
 
 
 ## How are these works licensed?  How do I contribute?

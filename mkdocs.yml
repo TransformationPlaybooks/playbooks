@@ -15,11 +15,28 @@ nav:
   - 'Open Transformation Playbooks' :
     - 'The Purpose of Organizational Design' : 'purpose_of_organizational_design.md' 
     - 'Language' :
-      - 'About language and taxonomy' : 'language.md' 
-      - 'People and Groupings' : 'language-people-and-groupings.md'
-      - 'Business' : 'language-business.md'
+      - 'About language and taxonomy' : 'language/language.md' 
+      - 'People and Groupings' : 'language/language-people-and-groupings.md'
+      - 'Business' : 'language/language-business.md'
     - 'Goals' : 'goals.md'
-    - 'The Designing of the Organization' : 'the-designing-of-the-organization.md'
+    - 'Design' :
+      - 'The Designing of the Organization' : 'design/designing-of-the-organization.md'
+      - 'Demand Side' :
+        - 'Demand Activity Plays' : 'design/demand/demand-activity-plays.md'
+        - 'Demand Design Consideration and Concepts' : 'design/demand/demand-design-considerations-and-concepts.md'
+        - 'Demand Delivery - Teams and Roles in Depth' : 'design/demand/demand-delivery_teams-and-roles-in-depth.md'
+        - 'Team Design Considerations' : 'design/demand/team-design-considerations.md'
+      - 'Supply Side' :
+        - 'Supply Activity Plays' : 'design/supply/supply-activity-plays.md'
+        - 'Supply Design Considerations' : 'design/supply/supply-design-considerations.md'
+        - 'Supply - Talent Pools and Roles in Depth' : 'design/supply/supply-talent-pools-and-roles-in-depth.md'
+      - 'Learn and Enhance' : 'design/learn-and-enhance.md'
+      - 'Reporting' : 'design/reporting/reporting.md'
+    - 'Helper Templates' :
+      - 'About Templates' : 'template/templates.md'
+      - 'Talent Pool Definition Card' : 'template/template-talent-pool-definitions.md'
+      - 'Delivery Gorup Definition Card' : 'template/template-delivery-group-definition.md'
+      - 'Accelerator Enablers' : 'template/template-accelerators-enablers.md'
     - 'Future Expansion Points' :
       - 'Why Transform?' : 'future-expansion-points/why-transform.md'
     - 'References' : 'references.md'
