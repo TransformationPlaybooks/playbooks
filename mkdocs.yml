@@ -12,6 +12,10 @@ edit_uri: 'edit/main/docs/'
 # Page tree
 nav:
   - 'index.md'
+  # - ':)' :
+  #   - '?' : 'a/1.md'
+  #   - 'T' : 'a/2.md'
+  #   - '!' : 'a/3.md'
   - 'Open Transformation Playbooks' :
     - 'The Purpose of Organizational Design' : 'purpose_of_organizational_design.md' 
     - 'Language' :
@@ -35,7 +39,7 @@ nav:
     - 'Helper Templates' :
       - 'About Templates' : 'template/templates.md'
       - 'Talent Pool Definition Card' : 'template/template-talent-pool-definitions.md'
-      - 'Delivery Gorup Definition Card' : 'template/template-delivery-group-definition.md'
+      - 'Delivery Group Definition Card' : 'template/template-delivery-group-definition.md'
       - 'Accelerator Enablers' : 'template/template-accelerators-enablers.md'
     - 'Future Expansion Points' :
       - 'Why Transform?' : 'future-expansion-points/why-transform.md'
