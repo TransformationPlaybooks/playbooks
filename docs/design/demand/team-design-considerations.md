@@ -1,0 +1,9 @@
+# Team design helpers.
+
+When designing the team one common challenge is how many members a team should have and although there is no one correct answer we want to ensure good communications and minimum high trust level which are elements contributing towards creating high performing teams ([https://www.researchgate.net/profile/Bart-De-Jong-3/publication/297733590\_Trust\_and\_Team\_Performance\_A\_Meta-Analysis\_of\_Main\_Effects\_Moderators\_and\_Covariates/links/56e1c81b08ae03f0278ed265/Trust-and-Team-Performance-A-Meta-Analysis-of-Main-Effects-Moderators-and-Covariates.pdf](https://www.researchgate.net/profile/Bart-De-Jong-3/publication/297733590_Trust_and_Team_Performance_A_Meta-Analysis_of_Main_Effects_Moderators_and_Covariates/links/56e1c81b08ae03f0278ed265/Trust-and-Team-Performance-A-Meta-Analysis-of-Main-Effects-Moderators-and-Covariates.pdf))
+
+While according to research by British anthropologist Robin Dunbar
+
+[How Many Friends Does One Person Need?](https://books.google.com.au/books?hl=en&amp;lr=&amp;id=gQ_MFDc_F4kC&amp;oi=fnd&amp;pg=PP1&amp;dq=Dunbar%27s+number+research&amp;ots=4dhjy9mkfy&amp;sig=GfaDKPN8QfvGUtGYcO-GqECnEo0#v=onepage&amp;q=Dunbar%27s%20number%20research&amp;f=false)
+
+at 5 or less team members there is deep trust and upto 15 team members there is high trust, so we should be aiming to ensure that there is enough people to do the work and fulfil the roles with in a team while maintain a minimum of high trust. This means the goal is to create teams with between 5 and 15 team members, other companies like AWS use the common phrase &quot;two pizza teams&quot; which also aligns [Two-Pizza Teams - Introduction to DevOps on AWS](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/two-pizza-teams.html) 
